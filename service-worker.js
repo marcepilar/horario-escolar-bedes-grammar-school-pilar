@@ -1,5 +1,5 @@
 /* Bede's Grammar School — DEMO NO OFICIAL. No comparte caché con otros colegios. */
-const CACHE_NAME = 'marktech-horario-bedes-pilar-demo-v1.0.1';
+const CACHE_NAME = 'marktech-horario-bedes-pilar-demo-v1.0.2';
 const SHELL = [ './', './index.html','./manifest.webmanifest','./version.json',
   './icon-192.png','./icon-512.png','./apple-touch-icon.png','./banner-bedes-grammar-school.png','./icon-maskable-512.png','./favicon-48.png', './qr-horario.png' ];
 self.addEventListener('install', event=>{

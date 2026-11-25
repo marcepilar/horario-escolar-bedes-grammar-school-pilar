@@ -1,5 +1,5 @@
 {
-  "version": "V1.0.1",
+  "version": "V1.0.2",
   "app": "Bede's Grammar School · Horario Escolar · DEMO NO OFICIAL",
   "updated": "2026-11-24",
   "status": "PRUEBA",
@@ -13,5 +13,5 @@
     "it"
   ],
   "courses": "1.º a 6.º, divisiones A y B; 12 cursos ficticios",
-  "notes": "DE PRUEBA: nuevo banner e iconos referenciales inspirados en Cross, Lions y Spurs. Sin cambios en horarios, cursos, traducciones ni funcionalidades. No oficial."
+  "notes": "DE PRUEBA: se eliminó el marco rectangular dorado interior del banner, conservando el borde exterior redondeado. Escudo y banner son ilustraciones referenciales no oficiales. Horarios, cursos, idiomas, temas y resto de funciones intactos."
 }

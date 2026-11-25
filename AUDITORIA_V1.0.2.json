@@ -1,0 +1,118 @@
+{
+  "version": "V1.0.2",
+  "changed_files_plus_standalone": [
+    "banner-bedes-grammar-school.png",
+    "service-worker.js",
+    "index.html",
+    "version.json",
+    "README.md",
+    "HTML interactivo"
+  ],
+  "javascript_logic_preserved": true,
+  "screens": {
+    "320_blue": {
+      "viewport": 320,
+      "documentWidth": 320,
+      "bannerImgWidth": 1800,
+      "bannerImgHeight": 600,
+      "headerRadius": "17px"
+    },
+    "320_light": {
+      "viewport": 320,
+      "documentWidth": 320,
+      "bannerImgWidth": 1800,
+      "bannerImgHeight": 600,
+      "headerRadius": "17px"
+    },
+    "320_dark": {
+      "viewport": 320,
+      "documentWidth": 320,
+      "bannerImgWidth": 1800,
+      "bannerImgHeight": 600,
+      "headerRadius": "17px"
+    },
+    "360_blue": {
+      "viewport": 360,
+      "documentWidth": 360,
+      "bannerImgWidth": 1800,
+      "bannerImgHeight": 600,
+      "headerRadius": "17px"
+    },
+    "360_light": {
+      "viewport": 360,
+      "documentWidth": 360,
+      "bannerImgWidth": 1800,
+      "bannerImgHeight": 600,
+      "headerRadius": "17px"
+    },
+    "360_dark": {
+      "viewport": 360,
+      "documentWidth": 360,
+      "bannerImgWidth": 1800,
+      "bannerImgHeight": 600,
+      "headerRadius": "17px"
+    },
+    "412_blue": {
+      "viewport": 412,
+      "documentWidth": 412,
+      "bannerImgWidth": 1800,
+      "bannerImgHeight": 600,
+      "headerRadius": "17px"
+    },
+    "412_light": {
+      "viewport": 412,
+      "documentWidth": 412,
+      "bannerImgWidth": 1800,
+      "bannerImgHeight": 600,
+      "headerRadius": "17px"
+    },
+    "412_dark": {
+      "viewport": 412,
+      "documentWidth": 412,
+      "bannerImgWidth": 1800,
+      "bannerImgHeight": 600,
+      "headerRadius": "17px"
+    }
+  },
+  "languages": {
+    "es": {
+      "selected": "🇦🇷 Español\n✓",
+      "detail_excerpt": "08:30\n09:15\nInglés\n1.ª clase\n09:15\n10:00\nEducación Artística\n2.ª clase\nRecreo · 10:00 a 10:15\n10:15\n11:00\nBiol"
+    },
+    "en": {
+      "selected": "🇬🇧 English\n✓",
+      "detail_excerpt": "08:30\n09:15\nEnglish\nLesson 1\n09:15\n10:00\nArts Education\nLesson 2\nBreak · 10:00 to 10:15\n10:15\n11:00\nBiology\nLe"
+    },
+    "pt": {
+      "selected": "🇧🇷 Português\n✓",
+      "detail_excerpt": "08:30\n09:15\nInglês\n1ª aula\n09:15\n10:00\nEducação Artística\n2ª aula\nIntervalo · 10:00 às 10:15\n10:15\n11:00\nBiolo"
+    },
+    "fr": {
+      "selected": "🇫🇷 Français\n✓",
+      "detail_excerpt": "08:30\n09:15\nAnglais\nCours 1\n09:15\n10:00\nÉducation artistique\nCours 2\nRécréation · 10:00 à 10:15\n10:15\n11:00\nBi"
+    },
+    "de": {
+      "selected": "🇩🇪 Deutsch\n✓",
+      "detail_excerpt": "08:30\n09:15\nEnglisch\n1. Stunde\n09:15\n10:00\nKunstunterricht\n2. Stunde\nPause · 10:00 bis 10:15\n10:15\n11:00\nBiolo"
+    },
+    "it": {
+      "selected": "🇮🇹 Italiano\n✓",
+      "detail_excerpt": "08:30\n09:15\nInglese\n1ª lezione\n09:15\n10:00\nEducazione artistica\n2ª lezione\nIntervallo · 10:00 alle 10:15\n10:15"
+    }
+  },
+  "courses": {
+    "1A": "1.º A",
+    "1B": "1.º B",
+    "2A": "2.º A",
+    "2B": "2.º B",
+    "3A": "3.º A",
+    "3B": "3.º B",
+    "4A": "4.º A",
+    "4B": "4.º B",
+    "5A": "5.º A",
+    "5B": "5.º B",
+    "6A": "6.º A",
+    "6B": "6.º B"
+  },
+  "javascript_errors": []
+}
