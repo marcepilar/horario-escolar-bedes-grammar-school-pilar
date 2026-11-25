@@ -1,0 +1,180 @@
+{
+  "version": "V1.0.3",
+  "js_logic_identical_except_version": true,
+  "icons_unchanged": true,
+  "screen_tests": {
+    "320_blue": {
+      "page_width": 320,
+      "card_width": 302,
+      "image_width": 300,
+      "image_height": 98.65625,
+      "image_natural": 1800,
+      "object_fit": "fill",
+      "card_height": 100.65625,
+      "border": "18px",
+      "label": "DEMO NO OFICIAL · HORARIOS FICTICIOS",
+      "label_width": 292,
+      "label_font_size": "7.5px",
+      "theme": "theme-blue"
+    },
+    "320_light": {
+      "page_width": 320,
+      "card_width": 302,
+      "image_width": 300,
+      "image_height": 98.65625,
+      "image_natural": 1800,
+      "object_fit": "fill",
+      "card_height": 100.65625,
+      "border": "18px",
+      "label": "DEMO NO OFICIAL · HORARIOS FICTICIOS",
+      "label_width": 292,
+      "label_font_size": "7.5px",
+      "theme": "theme-light"
+    },
+    "320_dark": {
+      "page_width": 320,
+      "card_width": 302,
+      "image_width": 300,
+      "image_height": 98.65625,
+      "image_natural": 1800,
+      "object_fit": "fill",
+      "card_height": 100.65625,
+      "border": "18px",
+      "label": "DEMO NO OFICIAL · HORARIOS FICTICIOS",
+      "label_width": 292,
+      "label_font_size": "7.5px",
+      "theme": "theme-dark"
+    },
+    "360_blue": {
+      "page_width": 360,
+      "card_width": 342,
+      "image_width": 340,
+      "image_height": 112,
+      "image_natural": 1800,
+      "object_fit": "fill",
+      "card_height": 114,
+      "border": "18px",
+      "label": "DEMO NO OFICIAL · HORARIOS FICTICIOS",
+      "label_width": 332,
+      "label_font_size": "7.5px",
+      "theme": "theme-blue"
+    },
+    "360_light": {
+      "page_width": 360,
+      "card_width": 342,
+      "image_width": 340,
+      "image_height": 112,
+      "image_natural": 1800,
+      "object_fit": "fill",
+      "card_height": 114,
+      "border": "18px",
+      "label": "DEMO NO OFICIAL · HORARIOS FICTICIOS",
+      "label_width": 332,
+      "label_font_size": "7.5px",
+      "theme": "theme-light"
+    },
+    "360_dark": {
+      "page_width": 360,
+      "card_width": 342,
+      "image_width": 340,
+      "image_height": 112,
+      "image_natural": 1800,
+      "object_fit": "fill",
+      "card_height": 114,
+      "border": "18px",
+      "label": "DEMO NO OFICIAL · HORARIOS FICTICIOS",
+      "label_width": 332,
+      "label_font_size": "7.5px",
+      "theme": "theme-dark"
+    },
+    "412_blue": {
+      "page_width": 412,
+      "card_width": 394,
+      "image_width": 392,
+      "image_height": 129.328125,
+      "image_natural": 1800,
+      "object_fit": "fill",
+      "card_height": 131.328125,
+      "border": "18px",
+      "label": "DEMO NO OFICIAL · HORARIOS FICTICIOS",
+      "label_width": 384,
+      "label_font_size": "8.034px",
+      "theme": "theme-blue"
+    },
+    "412_light": {
+      "page_width": 412,
+      "card_width": 394,
+      "image_width": 392,
+      "image_height": 129.328125,
+      "image_natural": 1800,
+      "object_fit": "fill",
+      "card_height": 131.328125,
+      "border": "18px",
+      "label": "DEMO NO OFICIAL · HORARIOS FICTICIOS",
+      "label_width": 384,
+      "label_font_size": "8.034px",
+      "theme": "theme-light"
+    },
+    "412_dark": {
+      "page_width": 412,
+      "card_width": 394,
+      "image_width": 392,
+      "image_height": 129.328125,
+      "image_natural": 1800,
+      "object_fit": "fill",
+      "card_height": 131.328125,
+      "border": "18px",
+      "label": "DEMO NO OFICIAL · HORARIOS FICTICIOS",
+      "label_width": 384,
+      "label_font_size": "8.034px",
+      "theme": "theme-dark"
+    }
+  },
+  "languages": {
+    "es": {
+      "selected": "🇦🇷 Español\n✓",
+      "banner_demo_label": "DEMO NO OFICIAL · HORARIOS FICTICIOS",
+      "detail_excerpt": "08:30\n09:15\nInglés\n1.ª clase\n09:15\n10:00\nEducación Artística\n2.ª clase\nRecreo · 10:00 a 10:15\n1"
+    },
+    "en": {
+      "selected": "🇬🇧 English\n✓",
+      "banner_demo_label": "UNOFFICIAL DEMO · SAMPLE TIMETABLES",
+      "detail_excerpt": "08:30\n09:15\nEnglish\nLesson 1\n09:15\n10:00\nArts Education\nLesson 2\nBreak · 10:00 to 10:15\n10:15\n1"
+    },
+    "pt": {
+      "selected": "🇧🇷 Português\n✓",
+      "banner_demo_label": "DEMO NÃO OFICIAL · HORÁRIOS FICTÍCIOS",
+      "detail_excerpt": "08:30\n09:15\nInglês\n1ª aula\n09:15\n10:00\nEducação Artística\n2ª aula\nIntervalo · 10:00 às 10:15\n10"
+    },
+    "fr": {
+      "selected": "🇫🇷 Français\n✓",
+      "banner_demo_label": "DÉMO NON OFFICIELLE · HORAIRES FICTIFS",
+      "detail_excerpt": "08:30\n09:15\nAnglais\nCours 1\n09:15\n10:00\nÉducation artistique\nCours 2\nRécréation · 10:00 à 10:15"
+    },
+    "de": {
+      "selected": "🇩🇪 Deutsch\n✓",
+      "banner_demo_label": "INOFFIZIELLE DEMO · FIKTIVE STUNDENPLÄNE",
+      "detail_excerpt": "08:30\n09:15\nEnglisch\n1. Stunde\n09:15\n10:00\nKunstunterricht\n2. Stunde\nPause · 10:00 bis 10:15\n10"
+    },
+    "it": {
+      "selected": "🇮🇹 Italiano\n✓",
+      "banner_demo_label": "DEMO NON UFFICIALE · ORARI FITTIZI",
+      "detail_excerpt": "08:30\n09:15\nInglese\n1ª lezione\n09:15\n10:00\nEducazione artistica\n2ª lezione\nIntervallo · 10:00 a"
+    }
+  },
+  "courses": {
+    "1A": "1.º A",
+    "1B": "1.º B",
+    "2A": "2.º A",
+    "2B": "2.º B",
+    "3A": "3.º A",
+    "3B": "3.º B",
+    "4A": "4.º A",
+    "4B": "4.º B",
+    "5A": "5.º A",
+    "5B": "5.º B",
+    "6A": "6.º A",
+    "6B": "6.º B"
+  },
+  "errors": []
+}
