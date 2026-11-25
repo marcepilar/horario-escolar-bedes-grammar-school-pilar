@@ -1,8 +1,8 @@
-# Horario Escolar — Bede's Grammar School · V1.0.0 DE PRUEBA
+# Horario Escolar — Bede's Grammar School · V1.0.1 DE PRUEBA
 
 PWA de demostración comercial independiente creada por MARK-TECH SOFTWARE. **NO OFICIAL**, sin patrocinio ni aprobación del colegio. Los 12 cursos (1.º a 6.º A/B), materias, turnos y horarios para 2027 son **ficticios** y no representan los horarios reales de la institución.
 
-**Identidad visual:** banner y monograma creados específicamente para la DEMO, NO son el escudo oficial ni sustituyen los recursos institucionales auténticos. Nombre propio preservado.
+**Identidad visual:** nuevo banner negro, rojo y dorado inspirado en las insignias de Lions, Cross y Spurs descritas por el colegio. Se trata de una recreación artística REFERENCIAL; NO es el escudo oficial exacto ni implica patrocinio. Iconos de instalación adaptados a esta recreación.
 
 ## Funcionalidad
 - Selector de 12 cursos y divisiones A/B.
@@ -20,4 +20,4 @@ PWA de demostración comercial independiente creada por MARK-TECH SOFTWARE. **NO
 
 El HTML interactivo incluye imágenes embebidas. En algunos Android, el visor de archivos muestra HTML como texto; la prueba más confiable es abrir la URL de GitHub Pages una vez publicada. Los QR incluidos antes de publicar son ilustrativos; la aplicación genera uno de la URL real cuando se abre por HTTPS con conexión.
 
-**Estado:** V1.0.0 DE PRUEBA, aún sin publicar, sin autorización institucional.
+**Estado:** V1.0.1 DE PRUEBA, aún sin publicar, sin autorización institucional.

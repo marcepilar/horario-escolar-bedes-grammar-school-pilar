@@ -1,0 +1,60 @@
+{
+  "source_logic_preserved": true,
+  "screens": [
+    320,
+    360,
+    412
+  ],
+  "themes": [
+    "blue",
+    "light",
+    "dark"
+  ],
+  "langs": {
+    "es": {
+      "title": "Horario Escolar",
+      "active": "🇦🇷 Español\n✓",
+      "detail_first_100": "08:30\n09:15\nInglés\n1.ª clase\n09:15\n10:00\nEducación Artística\n2.ª clase\nRecreo · 10:00 a 10:15\n10:15\n"
+    },
+    "en": {
+      "title": "School Timetable",
+      "active": "🇬🇧 English\n✓",
+      "detail_first_100": "08:30\n09:15\nEnglish\nLesson 1\n09:15\n10:00\nArts Education\nLesson 2\nBreak · 10:00 to 10:15\n10:15\n11:00\n"
+    },
+    "pt": {
+      "title": "Horário Escolar",
+      "active": "🇧🇷 Português\n✓",
+      "detail_first_100": "08:30\n09:15\nInglês\n1ª aula\n09:15\n10:00\nEducação Artística\n2ª aula\nIntervalo · 10:00 às 10:15\n10:15\n1"
+    },
+    "fr": {
+      "title": "Emploi du temps",
+      "active": "🇫🇷 Français\n✓",
+      "detail_first_100": "08:30\n09:15\nAnglais\nCours 1\n09:15\n10:00\nÉducation artistique\nCours 2\nRécréation · 10:00 à 10:15\n10:1"
+    },
+    "de": {
+      "title": "Stundenplan",
+      "active": "🇩🇪 Deutsch\n✓",
+      "detail_first_100": "08:30\n09:15\nEnglisch\n1. Stunde\n09:15\n10:00\nKunstunterricht\n2. Stunde\nPause · 10:00 bis 10:15\n10:15\n1"
+    },
+    "it": {
+      "title": "Orario scolastico",
+      "active": "🇮🇹 Italiano\n✓",
+      "detail_first_100": "08:30\n09:15\nInglese\n1ª lezione\n09:15\n10:00\nEducazione artistica\n2ª lezione\nIntervallo · 10:00 alle 1"
+    }
+  },
+  "courses": {
+    "1A": "1.º A",
+    "1B": "1.º B",
+    "2A": "2.º A",
+    "2B": "2.º B",
+    "3A": "3.º A",
+    "3B": "3.º B",
+    "4A": "4.º A",
+    "4B": "4.º B",
+    "5A": "5.º A",
+    "5B": "5.º B",
+    "6A": "6.º A",
+    "6B": "6.º B"
+  },
+  "page_errors": []
+}
